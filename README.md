@@ -1,5 +1,5 @@
-
-# my_python_web_app(demo,Learning)
+# demo & learning
+# my_python_web_app
 # My Flask Application
 
 This is a simple web application built with Flask.
@@ -28,13 +28,11 @@ To run the application, use the command: `python app.py`
 
 ## Built With
 
-- [Flask](http://flask.palletsprojects.com/) - The web framework used
+
 
 ## Authors
 
 - Your Name
 
 ## License
-
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
 
